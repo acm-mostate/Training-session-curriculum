@@ -5,35 +5,22 @@ This document contains categorized topics and problems for practicing data struc
 ---
 
 ## Index
-1. [Binary Search](#binary-search)
-2. [Arrays (1D, 2D)](#arrays-1d-2d)
+1. [Arrays (1D, 2D)](#arrays-1d-2d)
+2. [Binary Search](#binary-search)
 3. [Hash Map](#hash-map)
 4. [Linked List](#linked-list)
 5. [Stack](#stack)
 6. [Queue](#queue)
 7. [Priority Queue](#priority-queue)
 8. [Recursion](#recursion)
-9. [Binary Search Tree (BST)](#binary-search-tree-bst)
-10. [Binary Tree](#binary-tree)
-11. [Tree Traversal (BFS, DFS)](#tree-traversal-bfs-dfs)
+9. [Tree Traversal (BFS, DFS)](#tree-traversal-bfs-dfs)
+10. [Binary Search Tree (BST)](#binary-search-tree-bst)
+11. [Binary Tree](#binary-tree)
 12. [Graph Algorithms](#graph-algorithms)
 13. [Advanced Topics](#advanced-topics)
 14. [Mathematics](#mathematics)
 
 ---
-
-## Binary Search
-- [Binary Search](https://leetcode.com/problems/binary-search/)
-- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-
-**Bonus Problems:**
-- [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
-- [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
 ## Arrays (1D, 2D)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -56,6 +43,19 @@ This document contains categorized topics and problems for practicing data struc
 - [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+
+## Binary Search
+- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+**Bonus Problems:**
+- [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+- [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
 
 ## Hash Map
 - [Majority Element](https://leetcode.com/problems/majority-element/)
@@ -106,21 +106,6 @@ This document contains categorized topics and problems for practicing data struc
 ## Recursion
 (TODO)
 
-## Binary Search Tree (BST)
-- [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
-- [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
-- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
-## Binary Tree
-- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
-- [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
-- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-
 ## Tree Traversal (BFS, DFS)
 **Tutorial:**
 - [BFS and DFS Explained](https://www.youtube.com/watch?v=pcKY4hjDrxk)
@@ -140,6 +125,21 @@ This document contains categorized topics and problems for practicing data struc
 - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
+## Binary Search Tree (BST)
+- [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+## Binary Tree
+- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+- [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
 ## Graph Algorithms
 **Grid Traversal Problems:**
