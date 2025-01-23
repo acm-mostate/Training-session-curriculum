@@ -92,6 +92,9 @@ This document contains categorized topics and problems for practicing data struc
 - [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=problem-list-v2&envId=queue)
+- [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/?envType=problem-list-v2&envId=queue)
+- [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/?envType=problem-list-v2&envId=queue)
 
 ## Priority Queue
 **Tutorials:**
