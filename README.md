@@ -86,6 +86,8 @@ This document contains categorized topics and problems for practicing data struc
 - [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 - [Baseball Game](https://leetcode.com/problems/baseball-game/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=problem-list-v2&envId=stack)
+- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=stack)
 
 ## Queue
 - [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
